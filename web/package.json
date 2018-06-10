@@ -14,7 +14,7 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-jsxz": "~1.0.0",
     "babel-preset-stage-0": "~6.5.0",
-    "reaxt-react-15": "Shakadak/reaxt-react-15"
+    "reaxt-react-15": "Shakadak/reaxt-react-15#semver:^0.0.1"
   },
   "author": "",
   "license": "ISC"
