@@ -19,6 +19,6 @@ defmodule Hello.Mixfile do
   defp deps, do: [
     {:cowboy, "~> 1.0.0"},
     {:plug, "~> 1.0"},
-    {:reaxt, github: "Shakadak/reaxt", tag: "2.1.0"}
+    {:reaxt, github: "Shakadak/reaxt", tag: "2.1.1"}
   ]
 end
